@@ -12,5 +12,5 @@ You will notice that the surface of the circles on the shape changes. It depends
 You can see the working example on https://youtu.be/t6X8YDWSYBg.
 You can change the code as you wish.
 The both apps works fine for me but I can't guarantee that it will work for you.
-There is the picture of my touch panel and the schematics how I connected panel to Arduino Leonardo 32-bit and optionally to Arduino Mega 2560.
+There is the picture of my touch panel and the schematics how I connected panel to Arduino Leonardo and optionally to Arduino Mega 2560.
 Have fun!
